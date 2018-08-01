@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work and also various specific topics.
 
-very exciting
+very exciting , valhalla
 
 ## Purpose
 
